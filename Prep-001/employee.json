@@ -1,0 +1,25 @@
+
+[
+    {
+        "id": "001",
+        "name": "Ali",
+        "position": "safety officer",
+        "salary": 100000
+    },
+    {
+        "id": "002",
+        "name": "Bravo",
+        "position": "operation officer",
+        "salary": 200000
+    },
+    {
+        "id": "003",
+        "name": "Ali",
+        "position": "software engineer",
+        "salary": 300000
+    }
+    
+
+
+
+]
